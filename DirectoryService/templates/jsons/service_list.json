@@ -1,0 +1,5 @@
+{"list": [
+{% for l in list %}
+{"key":{{l.pk}},"name":"{{l.name}}","address":"{{l.address}}","port":{{l.port}},"version":"{{l.version}}"},
+{% endfor %}
+]}

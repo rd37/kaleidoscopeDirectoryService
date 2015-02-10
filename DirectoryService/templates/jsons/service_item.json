@@ -1,0 +1,3 @@
+{"item": 
+{"key":{{item.pk}},"name":"{{item.name}}","address":"{{item.address}}","port":{{item.port}},"version":"{{item.version}}"}
+}
